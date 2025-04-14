@@ -1,2 +1,2 @@
 # SF-UIDA
-source-free unsupervised individual domain adaptation
+[AAAI2025]Source-Free Unsupervised Individual Domain Adaptation
